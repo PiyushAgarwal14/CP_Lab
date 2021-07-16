@@ -2,7 +2,7 @@
 int main()
 {
        int age;
-    printf("This is designed by Nikhil Bhardwaj");
+    printf("This is designed by Piyush Agarwal");
     printf("\nEnter your age");
     scanf("%d",&age);
     if((age>=16)&&(age<18)) //under 18 candidate only
