@@ -2,7 +2,7 @@
 int main()
 {
 int i,j;
-printf("This is designed by Nikhil Bhardwaj\n");
+printf("This is created by Piyush Agarwal\n");
 for(i=1; i<=2; i++)
 {
   for(j=1; j<=2; j++)
