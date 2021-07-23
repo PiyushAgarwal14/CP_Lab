@@ -3,7 +3,7 @@ int main()
 {
  int i,k;
  int j=1;
- printf("This is designed by Nikhil Bhardwaj \n");
+ printf("This is created by Piyush Agarwal\n");
  printf("Enter any integer:");    
  scanf("%d",&i);
  
